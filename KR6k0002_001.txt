@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:39:17.431596
+#+DATE: 2015-08-30 20:39:18.109973
 #+TITLE: 彌沙塞五分戒本
 #+PROPERTY: CBETA_ID T22n1422a
 #+PROPERTY: ID KR6k0002
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 22, No. 1422a
 #+PROPERTY: VOL 22
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0002_T_001-0194c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1422[cf.No.1421]¶
-
- 《彌沙塞五分戒本》一卷¶
+No. 1422 [cf. No. 1421]¶
+《彌沙塞五分戒本》一卷¶
 ¶
 宋罽賓三藏佛陀什等譯¶
 
@@ -732,7 +731,7 @@ No.1422[cf.No.1421]¶
 
 不如象鼻著內衣。應當學。
 
-不如圓㮈著內¶
+不如圓[木*奈]著內¶
 衣。應當學。
 
 不細攝著內衣。應當學。
@@ -907,7 +906,7 @@ No.1422[cf.No.1421]¶
 
 不全吞食。應當學。¶
 
-不摶飯遙擲口中。應當學。
+不搏飯遙擲口中。應當學。
 
 不以鉢中有食¶
 水灑白衣屋內。應當學。
