@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 彌沙塞五分戒本
+#+DATE: 2015-08-30 20:39:17.668395
+#+PROPERTY: JUAN 0
